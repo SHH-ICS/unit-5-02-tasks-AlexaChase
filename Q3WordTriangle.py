@@ -5,7 +5,3 @@
 # PYTH
 # PYTHO
 # PYTHON
-word= input("Please enter a word:")
-while True:
-    print(word[0])
-    print(word[0:+1])
