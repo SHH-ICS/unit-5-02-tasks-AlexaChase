@@ -5,3 +5,8 @@
 # PYTH
 # PYTHO
 # PYTHON
+word= str(input("Please enter a word:"))
+for l in range(len(word)):
+    for w in range(l + 1):
+        print(word[w], end="")
+    print()
